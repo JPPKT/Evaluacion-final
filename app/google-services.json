@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "239707196230",
+    "firebase_url": "https://fb-prueba-htalca21-default-rtdb.firebaseio.com",
+    "project_id": "fb-prueba-htalca21",
+    "storage_bucket": "fb-prueba-htalca21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239707196230:android:62df1c20719308d507b347",
+        "android_client_info": {
+          "package_name": "com.example.firebasedeprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239707196230-7u1qi99haocq90gbhegms7t5a097m5k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoAILgU0fpI4daXCpC4oQVm08JPa8U8Aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239707196230-7u1qi99haocq90gbhegms7t5a097m5k1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
